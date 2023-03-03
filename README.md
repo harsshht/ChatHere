@@ -8,10 +8,11 @@ Live Link : https://chathereapp.netlify.app/login
 
 ## Screenshots
 
+![Sc6](https://user-images.githubusercontent.com/106909875/222730787-78505068-d0d6-4899-8a63-1348a8523a65.png)
+
 
 ![Sc5](https://user-images.githubusercontent.com/106909875/222730518-26527bea-a969-4081-a1ef-d0bf19dffcc7.png)
 
-https://github.com/harsshht/ChatHere/blob/main/src/img/Sc6.png
 
 ## Run Locally
 
