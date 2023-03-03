@@ -9,7 +9,9 @@ Live Link : https://chathereapp.netlify.app/login
 ## Screenshots
 
 
-https://github.com/harsshht/ChatHere/blob/main/src/img/Sc5.png
+`
+![Sc5](https://user-images.githubusercontent.com/106909875/222730357-d6dbe472-9b93-4756-84b7-176772ced688.png)
+`
 
 https://github.com/harsshht/ChatHere/blob/main/src/img/Sc6.png
 
